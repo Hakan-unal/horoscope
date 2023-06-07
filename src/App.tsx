@@ -77,7 +77,7 @@ const App = () => {
             />
           </Form.Item>
 
-          <Form.Item wrapperCol={{ offset: 16, span: 8 }}>
+          <Form.Item >
             <Button block htmlType="submit">
               Submit
             </Button>
